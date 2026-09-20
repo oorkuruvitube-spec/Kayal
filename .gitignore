@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+.DS_Store
+.venv/
+venv/
+
+# Private Personal Photos & Assets (Ignored from GitHub)
+WE.heic
+WE.jpg
+static/we_bg.jpg
+*.heic
